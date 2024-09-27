@@ -1,10 +1,10 @@
-Ethan Ward - Web Developer from New York
+Your Name Here - System Security Expert
 
 
 
 #---------- HEADER ----------#
 
-Ethan Ward
+Your Name Here
 
 aria-label = Toggle Menu
 
@@ -26,11 +26,11 @@ Download CV
 
 alt = Ethan's Photo
 
-12
-Years of Success
+3
+Years in Cybersecurity
 
-800+
-Projects Completed
+20+
+Projects Secured
 
 <ion-icon name="trophy"></ion-icon>
 
@@ -38,9 +38,9 @@ alt = I'm developer from New York
 
 Hello I'm
 
-Ethan Ward
+Your Name Here
 
-Web Developer from New York
+System Security Expert
 
 Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
 
@@ -60,9 +60,9 @@ alt = Ethan's Photo
 <ion-icon name="logo-javascript"></ion-icon>
 <ion-icon name="logo-angular"></ion-icon>
 
-I'm a Developer
+I'm a System Security Expert
 
-I Develop Application that Help People
+I Secure Systems and Applications
 
 Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatu epteur sint occaecat cupidatat
 
@@ -103,22 +103,22 @@ I Develop Skills Regularly
 
 Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
 
-CSS
+Penetration Testing
 95%
 
-React
+Network Security
 75%
 
-MongoDB
+Ethical Hacking
 90%
 
-Python
+Malware Analysis
 70%
 
-PHP
+Vulnerability Assessment
 80%
 
-JavaScript
+Incident Response
 75%
 
 
@@ -139,15 +139,15 @@ Submit Message
 
 <ion-icon name="location"></ion-icon>
 Address
-20, London, United Kingdom
+Your Address Here
 
 <ion-icon name="mail"></ion-icon>
 Email
-hello@ethan.com
+your_email@example.com
 
 <ion-icon name="call"></ion-icon>
 Phone
-+123 456 7890
++33 456 7890
 
 
 
@@ -161,7 +161,7 @@ Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in 
 
 alt = Jim Morisson Says when the musics over turn off the light
 
-Web Development
+Cybersecurity
 
 Jim Morisson Says when the musics over turn off the light
 
